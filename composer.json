@@ -1,0 +1,12 @@
+{
+    "name": "beechen/hover_tools",
+    "description": "develop",
+    "type": "library",
+    "authors": [
+        {
+            "name": "beechen",
+            "email": "sw_chenyuzhe@163.com"
+        }
+    ],
+    "require": {}
+}
