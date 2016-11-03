@@ -43,7 +43,7 @@ class System
     }
 
     /**
-     * 获取十进制转二进制
+     * 获取十进制转二进制数组
      * @param $number
      * @param $obj
      */
