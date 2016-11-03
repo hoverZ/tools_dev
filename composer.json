@@ -8,5 +8,20 @@
             "email": "sw_chenyuzhe@163.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "BeeChen\\hover_tools\\src\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BeeChen\\hover_tools\\tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev":{
+        "phpunit/phpunit": "~4.0"
+    }
 }
